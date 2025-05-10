@@ -65,6 +65,10 @@ You can view the live version of the portfolio here: [Live Portfolio](https://mo
    ```
 4. Open a pull request on the original repository.
 
+## Note
+
+If you use this project, please consider giving credit. It acknowledges the effort put into creating this project and supports the developer.
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
