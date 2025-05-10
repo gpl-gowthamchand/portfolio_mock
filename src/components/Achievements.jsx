@@ -8,7 +8,7 @@ const achievements = [
    {
     title: "4-Time Hackathon Participant",
     description: "Participated in 4 national-level hackathons as a frontend developer. Built functional prototypes but missed winning by narrow margins.",
-    images: ['/hackathon1.jpg', '/hackathon2.jpg'],
+    images: ['/hackathon-1.jpg', '/hackathon-2.jpg'],
   },
   // Add more achievements if you want!
 ]

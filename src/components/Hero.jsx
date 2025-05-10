@@ -79,7 +79,7 @@ export default function Hero() {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <img
-              src="/MyPhoto.jpeg"
+              src="/avatar.png"
               alt="Gowtham"
               className="w-full h-full object-cover"
               loading="lazy"
