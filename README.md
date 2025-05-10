@@ -23,8 +23,7 @@ The portfolio includes the following components:
 
 ## Live Link
 
-You can view the live version of the portfolio here: [Live Portfolio](#)  
-
+You can view the live version of the portfolio here: [Live Portfolio](https://mockfolio.netlify.app/)  
 
 ## How to Fork and Use
 
@@ -49,7 +48,8 @@ You can view the live version of the portfolio here: [Live Portfolio](#)
 - **Framework**: [Next.js](https://nextjs.org)
 - **Styling**: CSS Modules / Tailwind CSS (specify which one is used)
 - **Fonts**: [Geist](https://vercel.com/font)
-- **Deployment**: [Vercel](https://vercel.com)
+- **Deployment**: [Netlify](https://www.netlify.com)
+- **AI Tools**: [GitHub Copilot](https://github.com/features/copilot) and [ChatGPT](https://openai.com/chatgpt) were used to assist in generating and refining code, as well as improving documentation.
 
 ## How to Contribute
 
